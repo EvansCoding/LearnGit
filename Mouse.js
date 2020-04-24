@@ -6,3 +6,4 @@ Mouse.prototype.eat = function(cat){
     this.name = name;
 }
 
+//commit
